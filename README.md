@@ -2,6 +2,10 @@
 <h3 align="center" >A Computer Science student at NSUT with a strong focus on the MERN stack (MongoDB, Express.js, React, Node.js) and Data Structures & Algorithms. I have hands-on experience building projects like an Ed-Tech platform. I thrive in problem-solving and enjoy working on challenging coding tasks. I’m eager to collaborate with teams on impactful projects, continue learning, and grow as a developer in the tech industry.</h3>
 
 
+<video width="640" height="360">
+  <source src="aboutMe.mp4" type="video/mp4">
+</video>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovekush-1509&label=Profile%20views&color=0e75b6&style=flat" alt="lovekush-1509" /> </p>
