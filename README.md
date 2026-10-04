@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-sigma-two-37.vercel.app/](https://portfolio-sigma-two-37.vercel.app/)
 
-- 📫 How to reach me **Lovekush2022ucb6052@gmail.com**
+- 📫 How to reach me **dev.lovekush.1509@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
